@@ -1,4 +1,4 @@
-<h1>How to install vs code </h1> for dummies *cough*
+<h1>How to install vs code </h1> <h3>For dummies *cough*</h3>
 <p>Devices managed by SG MOE are restrictive, heres how to install an outdated by functional vs code</p>
 <hr>
 <h2>Got to company portal</h2>
